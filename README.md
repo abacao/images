@@ -1,13 +1,6 @@
 
 This page has the goal to centralize the versions of systems.
 
-
-# Latest approved images
-🟩 | AWS AMI | "talkdesk-9-1..."
-🟩 | Docker Python Image | "talkdesk-python01"
-
-
-
 ## AWS AMI
 
 |  | State | Name |
