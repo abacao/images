@@ -1,6 +1,6 @@
 AWS AMI
 
-Stable | "talkdesk-9-1..."
+Stable | ![#f03c15]("talkdesk-9-1...") `#f03c15`
 | :---: | :---: |
 Testing | "talkdesk-9-2..."
 
